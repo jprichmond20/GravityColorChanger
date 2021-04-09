@@ -1,4 +1,4 @@
-package edu.coe.hughes.sensors
+package edu.coe.richmond.sensors
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

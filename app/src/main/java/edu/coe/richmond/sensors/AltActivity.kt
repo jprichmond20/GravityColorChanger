@@ -1,16 +1,12 @@
-package edu.coe.hughes.sensors
+package edu.coe.richmond.sensors
 
-import android.R.attr.x
-import android.R.attr.y
 import android.graphics.Color
 import android.hardware.Sensor
 import android.hardware.SensorEvent
 import android.hardware.SensorEventListener
 import android.hardware.SensorManager
 import android.os.Bundle
-import android.util.Log
 import android.widget.TextView
-import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.constraintlayout.widget.ConstraintLayout
 import java.math.*

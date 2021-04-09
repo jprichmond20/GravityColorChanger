@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="edu.coe.hughes.sensors">
+    package="edu.coe.richmond.sensors">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Sensors">
-        <activity android:name=".AltActivity">
+        <activity android:name="edu.coe.richmond.sensors.AltActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

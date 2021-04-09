@@ -1,16 +1,10 @@
-package edu.coe.hughes.sensors
+package edu.coe.richmond.sensors
 
-import android.content.Context.SENSOR_SERVICE
 import android.hardware.Sensor
-import android.hardware.SensorEvent
-import android.hardware.SensorEventListener
 import android.hardware.SensorManager
 import android.os.Bundle
-import android.view.Menu
-import android.view.MenuItem
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.content.ContextCompat.getSystemService
 
 
 class MainActivity :  AppCompatActivity(){

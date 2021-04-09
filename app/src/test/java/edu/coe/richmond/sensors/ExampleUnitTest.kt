@@ -1,4 +1,4 @@
-package edu.coe.hughes.sensors
+package edu.coe.richmond.sensors
 
 import org.junit.Test
 
